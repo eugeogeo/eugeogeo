@@ -11,9 +11,12 @@
 >Olha, nem sei se tenho k 
 ```
   Desenvolvi projetos nas grandes áreas de Exatas e Saúde, com foco em previsão de dados. 
-  Costumo brincar com Front-end(JS/React) e estudar sobe desings(UI e UX).
+  
+  Costumo brincar com Front-end(JS/React) e estudar sobre desings(UI e UX).
+  
   Pretendo expandir meus conhecimentos em front e desing, 
     alem de aprender linguagens como Python para elaborar mais projetos de análise de dados.
+    
 ```
 
 
