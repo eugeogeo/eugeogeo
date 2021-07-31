@@ -4,8 +4,8 @@
 
 ## :student: Dados Acadêmicos
 ```
- - Técnica em Informática pelo IFMS - Campus Aquidauana (20127-2020)
- - Futura Bacharel em Ciência da Computação pela UTFPR - Campo Mourão (2020-atual)
+ - Técnica em Informática pelo IFMS - Campus Aquidauana (2017-2020/1)
+ - Futura Bacharel em Ciência da Computação pela UTFPR - Campo Mourão (2020/2-atual)
 ```
 ## :woman_technologist: Área de Atuação:
 >Olha, nem sei se tenho k 
@@ -18,8 +18,6 @@
     alem de aprender linguagens como Python para elaborar mais projetos de análise de dados.
     
 ```
-
-
-
-
+## :office: Alguns projetos: 
+-   [KopenótIA](https://github.com/eugeogeo/KopenotIA)
 
