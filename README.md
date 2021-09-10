@@ -20,4 +20,5 @@
 ```
 ## :office: Alguns projetos: 
 -   [KopenótIA](https://github.com/eugeogeo/KopenotIA)
+-   [Pokedex](https://github.com/eugeogeo/pokedex)
 
