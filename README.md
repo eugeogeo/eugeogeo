@@ -1,6 +1,6 @@
-# Saudações bobões :ng_woman:
-> ### Me chamo Geovana Figueiredo Silva, mas podem me chamar por Geo e para tomar um café :coffee:
-> Vou falar um pouquinho de mim por aqui e no final tem informações de contato, caso precise :hugs:
+# Saudações :ng_woman:
+> ### Me chamo Geovana Figueiredo Silva, mas podem me chamar por Geo
+> Vou falar um pouquinho de mim por aqui e, se tiver curiosidade, olhe meus projetos :hugs:
 
 ## :student: Dados Acadêmicos
 ```
@@ -12,7 +12,9 @@
 ```
   Desenvolvi projetos nas grandes áreas de Exatas e Saúde, com foco em previsão de dados. 
   
-  Costumo brincar com Front-end(JS/React) e estudar sobre desings(UI e UX).
+  Gosto de brincar com Front-end(JS/React) e estudar sobre desings(UI e UX).
+  
+  Costumo subir alguns códigos que estou aprendendo na facul. 
   
   Pretendo expandir meus conhecimentos em front e desing, 
     alem de aprender linguagens como Python para elaborar mais projetos de análise de dados.
@@ -22,3 +24,13 @@
 -   [KopenótIA](https://github.com/eugeogeo/KopenotIA)
 -   [Pokedex](https://github.com/eugeogeo/pokedex)
 
+## Caso queira falar comigo:
+
+### E-mail
+- geovanaf1912@gmail.com
+- geovanasilva@alunos.utfpr.edu.br
+
+### Redes sociais
+- Telegram: @eugeogeo
+- Discord: #2155 geogeo
+- Instagram: geoFigueiredo
