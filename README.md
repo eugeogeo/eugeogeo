@@ -1,14 +1,16 @@
 # Saudações :ng_woman:
-> ### Me chamo Geovana Figueiredo Silva, mas podem me chamar por Geo
-> Vou falar um pouquinho de mim por aqui e, se tiver curiosidade, olhe meus projetos :hugs:
+> ### Me chamo Geovana Silva, mas podem me chamar por Geo
+> Vou falar um pouquinho de mim por aqui :hugs:
 
 ## :student: Dados Acadêmicos
 ```
  - Técnica em Informática pelo IFMS - Campus Aquidauana (2017-2020/1)
  - Futura Bacharel em Ciência da Computação pela UTFPR - Campo Mourão (2020/2-atual)
+ - Estágiaria em Análise e Desenvolvimento de Sistemas na COAMO (04-2022 - atual)
+ 
 ```
 ## :woman_technologist: Área de Atuação:
->Olha, nem sei se tenho k 
+
 ```
   Desenvolvi projetos nas grandes áreas de Exatas e Saúde, com foco em previsão de dados. 
   
