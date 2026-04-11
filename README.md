@@ -5,7 +5,7 @@
 💻 **Linguagens de Programação** :
 Python  |  TypeScript  |  C  |  Java 
 </br>
-🏫 **Futura Bacharel em Ciência da Computação pela UTFPR - Campo Mourão (2020/2-atual)**
+🏫 **Bacharel em Ciência da Computação pela UTFPR - Campo Mourão**
 </br>
 🏬 **Estágio em Análise e Desenvolvimento de Sistemas na COAMO (04-2022 - 05-2023)**
 </br>
