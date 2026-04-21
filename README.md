@@ -1,4 +1,4 @@
-<h1 align="center">geo</h1>
+<h1 align="center">Geovana Silva</h1>
 
 <div align="center">
 
@@ -7,7 +7,7 @@ Python  |  TypeScript  |  C  |  Java
 </br>
 🏫 **Bacharel em Ciência da Computação pela UTFPR - Campo Mourão**
 </br>
-🏬 **Estágio em Análise e Desenvolvimento de Sistemas na COAMO (04-2022 - 05-2023)**
+🏫 **Mestranda em Ciência da Computação pela UTFPR - Campo Mourão**
 </br>
 **Analista de sistemas na COAMO (06-2023 - atual)**
 
